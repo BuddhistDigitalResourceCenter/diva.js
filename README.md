@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> 
   <a href="http://ddmal.github.io/diva.js">
     <img width="382" height="191" src="https://github.com/DDMAL/diva.js/wiki/img/diva-logo-sm.png" />
   </a>
